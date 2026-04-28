@@ -48,6 +48,7 @@
 ### 安装依赖
 
 bash
+
 pip install -r requirements.txt
 
 
@@ -56,6 +57,7 @@ pip install -r requirements.txt
 #### 1️⃣ 启动Web界面（推荐）
 
 bash
+
 python main.py web
 
 
